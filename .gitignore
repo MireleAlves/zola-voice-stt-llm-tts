@@ -1,0 +1,10 @@
+# Áudios gerados
+*.wav
+*.mp3
+
+# Variáveis sensíveis
+.env
+
+# Cache
+__pycache__/
+.ipynb_checkpoints/
