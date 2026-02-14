@@ -56,7 +56,7 @@ Essa organização garante clareza, rastreabilidade e facilidade de evolução d
 
 ---
 
-##  Stack Tecnológica
+##  Tecnologias Utilizadas
 
 - Python
 - Google Colab
