@@ -19,7 +19,7 @@ O objetivo é demonstrar como organizar uma infraestrutura de IA conversacional 
 
 ## Arquitetura da Solução
 
-![Arquitetura Zola Voice](docs/images/zola-voice-architecture.png)
+<p align="center"><img src="images/zola-voice-architecture.png" width="600"></p>
 
 ### Camadas da Arquitetura
 
@@ -41,7 +41,7 @@ Geração de arquivo MP3 e reprodução automática da resposta.
 
 Implementação modular validada em ambiente controlado (Google Colab):
 
-![Estrutura do Notebook](docs/images/colab-estrutura.png)
+<p align="center"><img src="images/colab-estrutura.png" width="600"></p>  
 
 O notebook foi organizado em seções independentes:
 
